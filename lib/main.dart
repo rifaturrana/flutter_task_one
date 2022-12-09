@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Flutter Demo Home Page'),
+          title: const Text('Task One'),
         ),
         body: SingleChildScrollView(
           child: Column(
